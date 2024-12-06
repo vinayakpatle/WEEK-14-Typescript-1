@@ -1,5 +1,5 @@
 "use strict";
-function greet(user) {
+function greetFunction(user) {
     console.log(`Hello ${user}`);
 }
-greet("Vinayak");
+greetFunction("Vinayak");
