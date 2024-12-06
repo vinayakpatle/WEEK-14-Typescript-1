@@ -8,3 +8,7 @@ function factorial(x: number): number{
 
 const result=factorial(5);
 console.log(`factorial of 5 is ${result}`);
+
+function divide(number){
+    
+}
