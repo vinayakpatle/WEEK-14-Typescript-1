@@ -1,4 +1,4 @@
-
+// there is no = in interface
 interface userType{
     firstName:string,
     lastName:string,

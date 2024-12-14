@@ -10,6 +10,6 @@ function isLegal2(user2) {
 let user2 = {
     firstName: "Vinayak",
     lastName: "patle",
-    age: 20
+    age: 8
 };
 isLegal2(user2);
