@@ -1,1 +1,1 @@
-{"root":["./src/callback.ts","./src/factorial.ts","./src/greetfunction.ts","./src/index.ts","./src/interface.ts","./src/islegal.ts","./src/reactcomponent.ts","./src/sum.ts","./src/typelike.ts","./src/types.ts"],"version":"5.6.3"}
+{"root":["./src/callback.ts","./src/factorial.ts","./src/greetfunction.ts","./src/index.ts","./src/interface.ts","./src/intersectiontype.ts","./src/islegal.ts","./src/reactcomponent.ts","./src/sum.ts","./src/typelike.ts","./src/types.ts","./src/uniontype.ts"],"version":"5.6.3"}
